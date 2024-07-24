@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max Moore (aka: Wising)
-- 👀 I’m interested in Java and Scalable networking for Minecraft Servers
-- 🌱 I’m currently learning scaling Docker swarms and creating a public scalable gaming cloud solution
-- 💞️ I'm working for noName Studios on their incredible live events
-- 📫 How to reach me: Wising#0001 or max@moore.contractors
+- 👀 I’m working on Java based Scalable networking for Minecraft Servers
+- 🌱 I’m currently learning Kubernetes and creating lots of great gaming content
+- 💞️ I'm working on my own projects at the moment around my job
+- 📫 How to reach me: @wising (discord) or maxmooredotuk@gmail.com
